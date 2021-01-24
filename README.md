@@ -10,6 +10,6 @@
 
 # git clone https://github.com/ZAKI-ZK/ngosek
 
-# cd botkom
+# cd ngosek
 
 # python2 ngosek.py
